@@ -117,4 +117,3 @@ def go(config: DictConfig):
 
 if __name__ == "__main__":
     go()
-
